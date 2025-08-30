@@ -7,8 +7,8 @@ const PLAYER_REACH = BLOCK_SIZE * 500;
 const MAX_MASS = BLOCK_SIZE;
 const MIN_MASS = 1;
 const COMPRESSION = 0.02;
-const MAX_WATER_SPEED = 5;
-const MIN_FLOW = 1;
+const MAX_WATER_SPEED = 1000;
+const MIN_FLOW = 100;
 
 const TREE_GROWTH_STAGES = 7;
 const TREE_GROWTH_RATE = 10;
